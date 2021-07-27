@@ -25,6 +25,8 @@ This project consists of a slight animation in the header of the mobile applicat
 [![inicio.png](https://i.postimg.cc/DyGfStb6/inicio.png)](https://postimg.cc/HVp1Kvz8)
 
 #### Animated Screen - Pantalla animada
-La animacion consiste en girar el dico de vinil cuando se desplaza el contenido del texto hacia arriba o abajo para poder ubicarlo en un tamaño mas pequeño junto con la imagen del album
+La animacion consiste en girar el dico de vinil cuando se desplaza el contenido del texto hacia arriba o abajo para poder ubicarlo en un tamaño mas pequeño junto con la imagen del album.
+
+The animation consists of rotating the vinyl record when the content of the text is moved up or down to be able to place it in a smaller size together with the album image.
 
 [![animacion.png](https://i.postimg.cc/m2pqGDr6/animacion.png)](https://postimg.cc/XpFxfndw)

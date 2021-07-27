@@ -12,6 +12,7 @@ In this section we will find all the projects that will be carried out.
 
 [![menu.png](https://i.postimg.cc/rs3pBTR0/menu.png)](https://postimg.cc/ct7Z3Vm0)
 
+------------
 ### Vinil Animation
 ------------
 

@@ -1,7 +1,7 @@
 # flutter_challenge
 
-En este repositorio estarán proyectos pequeños que realizaré para enriquecer mis conocmientos en Flutter y mejorar mis practicas para que posteriormente sean implementados en proyectos mas grandes.
-In this repository there will be small projects that I would carry out to enrich my knowledge in Flutter and improve my practices so that they can later be implemented in larger projects.
+En este repositorio estarán proyectos pequeños de aplicaciones móviles que realizaré para enriquecer mis conocmientos en Flutter y mejorar mis practicas para que posteriormente sean implementados en proyectos mas grandes.
+In this repository there will be small projects mobile apps that I would carry out to enrich my knowledge in Flutter and improve my practices so that they can later be implemented in larger projects.
 
 ## Menu
 

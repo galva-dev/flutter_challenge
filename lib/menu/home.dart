@@ -11,6 +11,8 @@ class HomeApp extends StatefulWidget {
 class _HomeAppState extends State<HomeApp> {
   @override
   Widget build(BuildContext context) {
+    final orientation = MediaQuery.of(context).orientation;
+
     return Scaffold(
       backgroundColor: Color(0xFF212239),
       body: Padding(
@@ -30,14 +32,37 @@ class _HomeAppState extends State<HomeApp> {
               height: 20,
             ),
             Expanded(
-              child: ListView.builder(
-                itemCount: ListProjects.list_project.length,
-                itemBuilder: (context, index) {
-                  return _CardItem(
-                    color: Colors.primaries[index % Colors.primaries.length],
-                    index: index,
+              child: AnimatedSwitcher(
+                duration: const Duration(seconds: 1),
+                transitionBuilder: (widget, animation) {
+                  return ScaleTransition(
+                    scale: animation,
+                    child: widget,
                   );
                 },
+                child: orientation == Orientation.portrait
+                    ? ListView.builder(
+                        itemCount: ListProjects.list_project.length,
+                        itemBuilder: (context, index) {
+                          return _CardItem(
+                            color: Colors
+                                .primaries[index % Colors.primaries.length],
+                            index: index,
+                          );
+                        },
+                      )
+                    : GridView.builder(
+                        gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                            crossAxisCount: 2),
+                        itemCount: ListProjects.list_project.length,
+                        itemBuilder: (context, index) {
+                          return _CardItem(
+                            color: Colors
+                                .primaries[index % Colors.primaries.length],
+                            index: index,
+                          );
+                        },
+                      ),
               ),
             )
           ],

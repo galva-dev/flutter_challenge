@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_challenge/vinil_animation/class_album.dart';
+import 'package:flutter_challenge/projects/vinil_animation/class_album.dart';
 import 'package:vector_math/vector_math_64.dart' as vector;
 
 class HomeVinil extends StatefulWidget {

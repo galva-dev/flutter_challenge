@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_challenge/projects/list_projects.dart';
+import 'package:flutter_challenge/list_projects/list_projects.dart';
 
 class HomeApp extends StatefulWidget {
   const HomeApp({Key? key}) : super(key: key);
@@ -102,7 +102,7 @@ class _CardItem extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Vinil Animation",
+                ListProjects.list_project[index].title,
                 style: TextStyle(
                   color: Colors.white,
                   fontWeight: FontWeight.bold,

@@ -10,7 +10,7 @@ En esta seccion encontraremos todos los proyectos que se iran realizando.
 
 In this section we will find all the projects that will be carried out.
 
-[![Untitled.png](https://i.postimg.cc/wMJfSGbH/Untitled.png)](https://postimg.cc/y31yRvHr)
+[![Untitled.png](https://i.postimg.cc/XYqRz0yF/Untitled.png)](https://postimg.cc/nX8SXg2c)
 
 ------------
 ### Vinil Animation
@@ -43,3 +43,13 @@ This project consists of the visualization of 2-column grid view but with a slig
 #### Home Screen - Pantalla de inicio
 
 [![Untitled.png](https://i.postimg.cc/rp8Jfmk8/Untitled.png)](https://postimg.cc/jDFP5R29)
+
+------------
+### List Scroll Animation v1
+------------
+
+Este proyecto consiste en el desplazamiento de una lista de elementos en la cual tiene una animacion de opacidad y modificacion de tamaño a medida que va desapareciendo en la pantalla en el desplazamiento.
+
+This project consists of moving a list of elements in which it has an animation of opacity and change in size as it disappears on the screen during the movement.
+
+[![Untitled.png](https://i.postimg.cc/3JJVkH16/Untitled.png)](https://postimg.cc/WtCXyCQ6)

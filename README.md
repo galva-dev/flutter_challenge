@@ -10,7 +10,7 @@ En esta seccion encontraremos todos los proyectos que se iran realizando.
 
 In this section we will find all the projects that will be carried out.
 
-[![Untitled.png](https://i.postimg.cc/DzQy2X7L/Untitled.png)](https://postimg.cc/2q6fG3bS)
+[![asdasd.png](https://i.postimg.cc/NG48GQYr/asdasd.png)](https://postimg.cc/JtsHPVs1)
 
 ------------
 ### Vinil Animation
@@ -53,3 +53,19 @@ Este proyecto consiste en el desplazamiento de una lista de elementos en la cual
 This project consists of moving a list of elements in which it has an animation of opacity and change in size as it disappears on the screen during the movement.
 
 [![Untitled.png](https://i.postimg.cc/3JJVkH16/Untitled.png)](https://postimg.cc/WtCXyCQ6)
+
+------------
+### Shake Transition
+------------
+
+Este proyecto consiste en animaciones de bienvenida a la pantalla en la cual se podrá animar cualquier widget e indicandole la direccion (vertical o horizontal), la duracion y el recorrido de la animacion. 
+
+This project consists of welcome animations to the screen in which any widget can be animated and indicating the direction (vertical or horizontal), the duration and the path of the animation.
+
+#### Start of animation - Comienzo de la animacion
+
+[![Untitled.png](https://i.postimg.cc/ZYV3tjF8/Untitled.png)](https://postimg.cc/hhQhVLYv)
+
+#### End of animation - Fin de la animacion
+
+[![asd.png](https://i.postimg.cc/xT8m0HtW/asd.png)](https://postimg.cc/SJ0RdX0r)

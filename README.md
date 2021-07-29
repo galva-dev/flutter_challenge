@@ -69,3 +69,19 @@ This project consists of welcome animations to the screen in which any widget ca
 #### End of animation - Fin de la animacion
 
 [![asd.png](https://i.postimg.cc/xT8m0HtW/asd.png)](https://postimg.cc/SJ0RdX0r)
+
+------------
+### Social Share Button
+------------
+
+Este proyecto consiste en una animacion de desplazamiento de la barra de redes sociales para compartir algun contenido
+
+This project consists of a scrolling animation of the social media bar to share some content
+
+#### Hide Social Media - Redes sociales ocultas
+
+[![Untitled.png](https://i.postimg.cc/pr3tFhPv/Untitled.png)](https://postimg.cc/WqmKR4DY)
+
+#### Show Social Media - Redes sociales mostradas
+
+[![asd.png](https://i.postimg.cc/CM20ttk2/asd.png)](https://postimg.cc/F10wkTPb)

@@ -85,3 +85,19 @@ This project consists of a scrolling animation of the social media bar to share 
 #### Show Social Media - Redes sociales mostradas
 
 [![asd.png](https://i.postimg.cc/CM20ttk2/asd.png)](https://postimg.cc/F10wkTPb)
+
+------------
+### Floating Button Animation
+------------
+
+Este proyecto consiste en la animacion de expansion de contenido de un floating action buton personalizado que oculta el texto al desplazar hacia abajo y muestra el texto al desplazar hacia arriba
+
+This project consists of the content expansion animation of a custom floating action button that hides the text when scrolling down and shows the text when scrolling up.
+
+#### Hide Text - Oculta Texto
+
+[![Untitled.png](https://i.postimg.cc/FR41BVnY/Untitled.png)](https://postimg.cc/PLStLYHH)
+
+#### Show Text - Muestra Texto
+
+[![asd.png](https://i.postimg.cc/KYLRfHQX/asd.png)](https://postimg.cc/7CHHYXpX)

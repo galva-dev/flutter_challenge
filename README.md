@@ -80,11 +80,11 @@ This project consists of a scrolling animation of the social media bar to share 
 
 #### Hide Social Media - Redes sociales ocultas
 
-[![Untitled.png](https://i.postimg.cc/pr3tFhPv/Untitled.png)](https://postimg.cc/WqmKR4DY)
+[![asd.png](https://i.postimg.cc/rF3VH9Dq/asd.png)](https://postimg.cc/gnybX8y7)
 
 #### Show Social Media - Redes sociales mostradas
 
-[![asd.png](https://i.postimg.cc/CM20ttk2/asd.png)](https://postimg.cc/F10wkTPb)
+[![Untitled.png](https://i.postimg.cc/y8R1CSRc/Untitled.png)](https://postimg.cc/gxYFvjN2)
 
 ------------
 ### Floating Button Animation

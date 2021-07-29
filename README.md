@@ -10,7 +10,7 @@ En esta seccion encontraremos todos los proyectos que se iran realizando.
 
 In this section we will find all the projects that will be carried out.
 
-[![Untitled.png](https://i.postimg.cc/XYqRz0yF/Untitled.png)](https://postimg.cc/nX8SXg2c)
+[![Untitled.png](https://i.postimg.cc/DzQy2X7L/Untitled.png)](https://postimg.cc/2q6fG3bS)
 
 ------------
 ### Vinil Animation

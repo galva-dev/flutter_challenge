@@ -80,8 +80,33 @@ This project consists of a scrolling animation of the social media bar to share 
 
 #### Hide Social Media - Redes sociales ocultas
 
-[![Untitled.png](https://i.postimg.cc/pr3tFhPv/Untitled.png)](https://postimg.cc/WqmKR4DY)
+[![asd.png](https://i.postimg.cc/rF3VH9Dq/asd.png)](https://postimg.cc/gnybX8y7)
 
 #### Show Social Media - Redes sociales mostradas
 
-[![asd.png](https://i.postimg.cc/CM20ttk2/asd.png)](https://postimg.cc/F10wkTPb)
+[![Untitled.png](https://i.postimg.cc/y8R1CSRc/Untitled.png)](https://postimg.cc/gxYFvjN2)
+
+------------
+### Floating Button Animation
+------------
+
+Este proyecto consiste en la animacion de expansion de contenido de un floating action buton personalizado que oculta el texto al desplazar hacia abajo y muestra el texto al desplazar hacia arriba
+
+This project consists of the content expansion animation of a custom floating action button that hides the text when scrolling down and shows the text when scrolling up.
+
+#### Hide Text - Oculta Texto
+
+[![Untitled.png](https://i.postimg.cc/FR41BVnY/Untitled.png)](https://postimg.cc/PLStLYHH)
+
+#### Show Text - Muestra Texto
+
+[![asd.png](https://i.postimg.cc/KYLRfHQX/asd.png)](https://postimg.cc/7CHHYXpX)
+
+------------
+### Cofee App Animation
+------------
+
+Este proyecto consiste en una animacion al querer seleccionar algun producto
+
+This project consists of an animation when you want to select a product
+

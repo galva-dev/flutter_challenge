@@ -103,10 +103,10 @@ This project consists of the content expansion animation of a custom floating ac
 [![asd.png](https://i.postimg.cc/KYLRfHQX/asd.png)](https://postimg.cc/7CHHYXpX)
 
 ------------
-### Cofee App Animation
+### Stories Animation
 ------------
 
-Este proyecto consiste en una animacion al querer seleccionar algun producto
+Este proyecto consiste en una animacion de targetas que pueden arrastrarse como historias.
 
-This project consists of an animation when you want to select a product
+This project consists of an animation of cards that can be dragged as stories.
 

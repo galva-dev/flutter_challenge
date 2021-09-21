@@ -4,6 +4,7 @@ import 'package:flutter_challenge/projects/list_scroll_animation_v1/list_scroll_
 import 'package:flutter_challenge/projects/shake_transition/main_shake_transition.dart';
 import 'package:flutter_challenge/projects/social_share_button/main_social_share_button.dart';
 import 'package:flutter_challenge/projects/staggered_dual_view/main_steggered_dual_view.dart';
+import 'package:flutter_challenge/projects/stories_animation/main_stories_animation.dart';
 import 'package:flutter_challenge/projects/vinil_animation/home_vinil.dart';
 
 class ListProjects {
@@ -34,6 +35,10 @@ class ListProjects {
     ListProjects(
       title: 'Floating Button Animation',
       page: FloatingButtonAnimation(),
+    ),
+    ListProjects(
+      title: 'Stories Animation',
+      page: StoriesAnimation(),
     ),
   ];
 

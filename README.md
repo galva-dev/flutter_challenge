@@ -110,3 +110,10 @@ Este proyecto consiste en una animacion de targetas que pueden arrastrarse como 
 
 This project consists of an animation of cards that can be dragged as stories.
 
+#### Stories - Historias
+
+[![storie1.png](https://i.postimg.cc/3Jd0Tqd7/storie1.png)](https://postimg.cc/Whc1mXGf)
+
+#### Slide stories - Deslizar historias
+
+[![storie2.png](https://i.postimg.cc/2jHLgYj2/storie2.png)](https://postimg.cc/ThDPWZDD)

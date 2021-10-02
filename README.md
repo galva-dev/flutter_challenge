@@ -110,3 +110,22 @@ Este proyecto consiste en una animacion de targetas que pueden arrastrarse como 
 
 This project consists of an animation of cards that can be dragged as stories.
 
+#### Stories - Historias
+
+[![storie1.png](https://i.postimg.cc/3Jd0Tqd7/storie1.png)](https://postimg.cc/Whc1mXGf)
+
+#### Swipe stories - Deslizar historias
+
+[![storie2.png](https://i.postimg.cc/2jHLgYj2/storie2.png)](https://postimg.cc/ThDPWZDD)
+
+------------
+### Nike Store UI
+------------
+
+Este proyecto consiste en una list view mostrando en tarjetas productos Nike
+
+This project consists of a list view showing Nike products on cards
+
+[![nike1.png](https://i.postimg.cc/NGC5cr0j/nike1.png)](https://postimg.cc/nM7HKr7y)
+
+[![nike2.png](https://i.postimg.cc/pXgr9bzN/nike2.png)](https://postimg.cc/kBvqZHTw)

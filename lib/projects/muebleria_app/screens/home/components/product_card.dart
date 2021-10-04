@@ -12,13 +12,13 @@ class ProductCard extends StatelessWidget {
   }) : super(key: key);
 
   final Product product;
-  final Function press;
+  final VoidCallback press;
 
   @override
   Widget build(BuildContext context) {
     double? defaultSize = SizeConfig.defaultSize;
     return GestureDetector(
-      onTap: () => press,
+      onTap: press,
       child: Container(
         width: defaultSize! * 14.5,
         decoration: BoxDecoration(
@@ -34,9 +34,12 @@ class ProductCard extends StatelessWidget {
             children: [
               AspectRatio(
                 aspectRatio: 1,
-                child: FadeInImage.assetNetwork(
-                  placeholder: "assets/icons/muebleria_app/spinner.gif",
-                  image: product.image,
+                child: Hero(
+                  tag: product.id,
+                  child: FadeInImage.assetNetwork(
+                    placeholder: "assets/icons/muebleria_app/spinner.gif",
+                    image: product.image,
+                  ),
                 ),
               ),
               TitleText(title: productExample.title),

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_challenge/projects/muebleria_app/models/product.dart';
+import 'package:flutter_challenge/projects/muebleria_app/screens/details/details_screen.dart';
 import 'package:flutter_challenge/projects/muebleria_app/screens/home/components/product_card.dart';
 import 'package:flutter_challenge/projects/muebleria_app/size_config.dart';
 
@@ -21,14 +22,24 @@ class RecommandProducts extends StatelessWidget {
         physics: NeverScrollableScrollPhysics(),
         itemCount: products.length,
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: SizeConfig.orientation == Orientation.portrait ? 2 : 4,
+          crossAxisCount:
+              SizeConfig.orientation == Orientation.portrait ? 2 : 4,
           mainAxisSpacing: 20,
           crossAxisSpacing: 20,
           childAspectRatio: 0.693,
         ),
         itemBuilder: (context, index) => ProductCard(
           product: products[index],
-          press: () {},
+          press: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(
+                builder: (context) => DetailsScreenMuebleria(
+                  product: products[index],
+                ),
+              ),
+            );
+          },
         ),
       ),
     );

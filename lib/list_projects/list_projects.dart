@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_challenge/projects/floating_button_animation/floating_button_animation.dart';
 import 'package:flutter_challenge/projects/list_scroll_animation_v1/list_scroll_animation_v1.dart';
+import 'package:flutter_challenge/projects/muebleria_app/main_muebleria.dart';
 import 'package:flutter_challenge/projects/nike_store_ui/main_nike_store_ui.dart';
 import 'package:flutter_challenge/projects/plant_store_ui/plant_store.dart';
 import 'package:flutter_challenge/projects/shake_transition/main_shake_transition.dart';
@@ -49,6 +50,10 @@ class ListProjects {
     ListProjects(
       title: 'Plant Store UI',
       page: PlantStoreUI(),
+    ),
+    ListProjects(
+      title: 'Muebleria App',
+      page: MuebleriaApp(),
     ),
   ];
 

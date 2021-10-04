@@ -27,7 +27,7 @@ class Product {
 }
 
 // Our Demo Product
-Product product = Product(
+Product productExample = Product(
   id: "1",
   price: 1600,
   title: "Wood Frame",

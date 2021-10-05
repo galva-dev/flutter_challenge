@@ -138,6 +138,8 @@ Este proyecto consiste en el desarrollo de interfaz de usuario para la visualiza
 
 This project consists of the development of the user interface for the visualization of the product and the detail of the product before adding to the cart
 
+[![plant1.png](https://i.postimg.cc/d1WMnC47/plant1.png)](https://postimg.cc/0MJHyzgx)
+
 ------------
 ### Muebleria App
 ------------

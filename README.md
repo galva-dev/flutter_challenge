@@ -137,3 +137,12 @@ This project consists of a list view showing Nike products on cards
 Este proyecto consiste en el desarrollo de interfaz de usuario para la visualizacion del producto y el detalle del producto antes de añadir al carrito
 
 This project consists of the development of the user interface for the visualization of the product and the detail of the product before adding to the cart
+
+------------
+### Muebleria App
+------------
+
+Este proyecto consiste en la pagina de inicio y detalle del producto con las animaciones de carga de las imagenes de una app de venta de muebles con recuperacion de los datos desde una API
+
+This project consists of the home page and detail of the product with the loading animations of the images of a furniture sales app with data retrieval from an API
+

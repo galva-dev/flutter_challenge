@@ -140,6 +140,8 @@ This project consists of the development of the user interface for the visualiza
 
 [![plant1.png](https://i.postimg.cc/d1WMnC47/plant1.png)](https://postimg.cc/0MJHyzgx)
 
+[![plant2.png](https://i.postimg.cc/PJNg7qRS/plant2.png)](https://postimg.cc/BP97LJsF)
+
 ------------
 ### Muebleria App
 ------------

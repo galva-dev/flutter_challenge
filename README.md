@@ -129,3 +129,11 @@ This project consists of a list view showing Nike products on cards
 [![nike1.png](https://i.postimg.cc/NGC5cr0j/nike1.png)](https://postimg.cc/nM7HKr7y)
 
 [![nike2.png](https://i.postimg.cc/pXgr9bzN/nike2.png)](https://postimg.cc/kBvqZHTw)
+
+------------
+### Plant Store UI
+------------
+
+Este proyecto consiste en el desarrollo de interfaz de usuario para la visualizacion del producto y el detalle del producto antes de añadir al carrito
+
+This project consists of the development of the user interface for the visualization of the product and the detail of the product before adding to the cart

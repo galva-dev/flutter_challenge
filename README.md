@@ -153,3 +153,5 @@ This project consists of the home page and detail of the product with the loadin
 [![mueble1.png](https://i.postimg.cc/Sx3ztCF2/mueble1.png)](https://postimg.cc/Bj56j8v4)
 
 [![mueble2.png](https://i.postimg.cc/NMw2Qt0Q/mueble2.png)](https://postimg.cc/sBwgJtSL)
+
+[![mueble3.png](https://i.postimg.cc/q7KCfq4m/mueble3.png)](https://postimg.cc/kVn5KnV8)

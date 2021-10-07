@@ -149,3 +149,5 @@ This project consists of the development of the user interface for the visualiza
 Este proyecto consiste en la pagina de inicio y detalle del producto con las animaciones de carga de las imagenes de una app de venta de muebles con recuperacion de los datos desde una API
 
 This project consists of the home page and detail of the product with the loading animations of the images of a furniture sales app with data retrieval from an API
+
+[![mueble1.png](https://i.postimg.cc/Sx3ztCF2/mueble1.png)](https://postimg.cc/Bj56j8v4)
